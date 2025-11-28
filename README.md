@@ -35,6 +35,14 @@ This Weather App is a full-featured Java desktop application built with JavaFX a
 4. Build the project using Maven:
 5. Run the Main.java file to launch the application
     - using this command: mvn clean compile exec:java
+  
+
+## Video (demo of the app):
+
+https://github.com/user-attachments/assets/eddbb231-a086-4de6-b5d9-a3fbb622dd34
+
+
+
 
 ## Usage
 - Open the app to see the Main Screen with the logo and button.
