@@ -42,8 +42,6 @@ This Weather App is a full-featured Java desktop application built with JavaFX a
 https://github.com/user-attachments/assets/eddbb231-a086-4de6-b5d9-a3fbb622dd34
 
 
-
-
 ## Usage
 - Open the app to see the Main Screen with the logo and button.
   
